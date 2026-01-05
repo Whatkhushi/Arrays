@@ -1,4 +1,4 @@
-#1: Find the Distance Value Between Two Arrays
+1: Find the Distance Value Between Two Arrays
 
 **Difficulty:** Easy  
 **Tags:** arrays, binary-search  
