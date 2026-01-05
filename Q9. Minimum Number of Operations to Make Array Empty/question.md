@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/frequency-count-array/
+https://www.geeksforgeeks.org/hashmap-in-java/
 
 ## Issue Description
 You can remove either two or three equal elements in one operation.

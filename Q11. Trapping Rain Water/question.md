@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/trapping-rain-water/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/trapping-rain-water/
+https://www.geeksforgeeks.org/two-pointers-technique/
 
 ## Issue Description
 Given elevation heights, calculate how much rainwater can be trapped between bars.

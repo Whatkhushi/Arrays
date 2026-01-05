@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/minimum-average-of-smallest-and-largest-elements/
+https://www.geeksforgeeks.org/two-pointers-technique/
 
 ## Issue Description
 Repeatedly remove the smallest and largest elements and track the minimum average.  

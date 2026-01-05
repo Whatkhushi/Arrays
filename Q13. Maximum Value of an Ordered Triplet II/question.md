@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/find-maximum-product-triplet-array/
+https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
 
 ## Issue Description
 Find the maximum value of (nums[i] - nums[j]) * nums[k] such that i < j < k.

@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/difference-array-range-update-query-o1/
+https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/
 
 ## Issue Description
 You are given an array and multiple range sum requests.

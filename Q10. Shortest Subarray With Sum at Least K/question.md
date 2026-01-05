@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/shortest-subarray-with-sum-at-least-k/
+https://www.geeksforgeeks.org/sliding-window-technique/
 
 ## Issue Description
 Find the length of the shortest non-empty subarray whose sum is at least K.

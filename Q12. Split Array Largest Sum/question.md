@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/split-array-largest-sum/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/split-array-largest-sum/
+https://www.geeksforgeeks.org/binary-search/
 
 ## Issue Description
 Split an array into k non-empty subarrays such that the largest subarray sum is minimized.

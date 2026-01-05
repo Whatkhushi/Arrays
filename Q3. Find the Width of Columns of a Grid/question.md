@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/column-widths-in-a-grid/
+https://www.geeksforgeeks.org/print-matrix-row-wise-column-wise/
 
 ## Issue Description
 Compute the maximum width required for each column when displaying a grid.  

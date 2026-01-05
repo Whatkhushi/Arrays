@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/number-of-ways-to-split-array/
+https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/
 
 ## Issue Description
 Count the number of ways to split the array into three non-empty subarrays such that

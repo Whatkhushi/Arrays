@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/check-if-array-is-good/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/check-if-an-array-is-good/
+https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/
 
 ## Issue Description
 Verify whether an array contains exactly the numbers from 1 to n−1 once and the number n twice.  

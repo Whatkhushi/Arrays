@@ -9,7 +9,7 @@
 **Link:** https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
 
 ## Concept to Read
-https://www.geeksforgeeks.org/check-whether-given-sides-form-triangle/
+https://www.geeksforgeeks.org/sorting-in-cpp-stl/
 
 ## Issue Description
 Given an array of side lengths, determine the largest possible perimeter of a valid polygon.
